@@ -11,5 +11,8 @@ dependencies:
   - openpyxl
   - s3fs
   - plotly
+  - langchain
+  - langchain-openai
+  - yfinance
   - pip:
       - dataframe-image

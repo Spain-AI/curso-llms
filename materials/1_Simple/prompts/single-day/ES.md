@@ -1,0 +1,3 @@
+El día {DATE}, el activo financiero con ticker {TICKER} registró un retorno de {RETURN}%, calculado como la variación porcentual entre el precio de cierre de esa fecha y el de la fecha anterior correspondiente según la frecuencia de cálculo definida: {FREQUENCY} (por ejemplo: diaria D, mensual M, trimestral Q o anual Y).
+
+Explica los motivos que podrían justificar este movimiento extremo, utilizando noticias relevantes publicadas en torno a esa fecha. Proporciona una explicación fundamentada, la fecha de publicación de la noticia y un enlace a la fuente.
