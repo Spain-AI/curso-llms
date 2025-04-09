@@ -20,7 +20,11 @@ RUN apt-get update && \
     git \
     curl \
     zsh \
+    direnv \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
+# Configure direnv hook for zsh
+RUN echo 'eval "$(direnv hook zsh)"' >> /root/.zshrc && \
+    echo 'eval "$(direnv hook zsh)"' >> /home/mambauser/.zshrc
 
 CMD ["zsh"]
