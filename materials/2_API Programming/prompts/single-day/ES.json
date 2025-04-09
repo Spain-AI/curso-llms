@@ -1,0 +1,18 @@
+{
+    "name": null,
+    "input_variables": [
+        "DATE",
+        "FREQUENCY",
+        "RETURN",
+        "TICKER"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "El d\u00eda {DATE}, el activo financiero con ticker {TICKER} registr\u00f3 un retorno de {RETURN}%, calculado como la variaci\u00f3n porcentual entre el precio de cierre de esa fecha y el de la fecha anterior correspondiente seg\u00fan la frecuencia de c\u00e1lculo definida: {FREQUENCY} (por ejemplo: diaria D, mensual M, trimestral Q o anual Y).\n\nExplica los motivos que podr\u00edan justificar este movimiento extremo, utilizando noticias relevantes publicadas en torno a esa fecha. Proporciona una explicaci\u00f3n fundamentada, la fecha de publicaci\u00f3n de la noticia y un enlace a la fuente.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

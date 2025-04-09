@@ -33,7 +33,7 @@ def calculate_significant_returns_simple(
     returns = returns[ticker]
 
     extreme_indices = returns.abs().nlargest(n).index
-    return returns.loc[extreme_indices].to_frame()
+    return returns.loc[extreme_indices]
 
 
 @tool
@@ -71,4 +71,4 @@ def calculate_significant_returns_tool(
     returns = returns[ticker]
 
     extreme_indices = returns.abs().nlargest(n).index
-    return returns.loc[extreme_indices].to_frame()
+    return returns.loc[extreme_indices]
