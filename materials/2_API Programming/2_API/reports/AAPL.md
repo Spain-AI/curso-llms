@@ -1,0 +1,9 @@
+El 11 de junio de 2024, las acciones de Apple Inc. (AAPL) experimentaron un notable incremento del 7.26%, alcanzando un precio récord de $207.15 por acción. Este movimiento significativo se atribuye principalmente a los anuncios realizados durante la Conferencia Mundial de Desarrolladores (WWDC) de Apple, celebrada el 10 de junio de 2024.
+
+Durante la WWDC, Apple presentó "Apple Intelligence", una plataforma de inteligencia artificial integrada en iOS 18, y anunció una colaboración con OpenAI para incorporar ChatGPT en sus dispositivos. Estas innovaciones generaron expectativas de un nuevo ciclo de actualización de iPhones, impulsando el optimismo entre los inversores. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-06-11/apple-hits-first-record-this-year-on-hopes-ai-will-fuel-upgrades?utm_source=openai))
+
+Analistas de JPMorgan destacaron que las mejoras en las aplicaciones nativas y de terceros, junto con la integración de Apple Intelligence, podrían estimular la demanda de nuevos dispositivos. ([investopedia.com](https://www.investopedia.com/dow-jones-today-06112024-8661364?utm_source=openai))
+
+Además, la integración de ChatGPT y una versión más conversacional de Siri se consideraron factores clave para impulsar un ciclo de actualización de iPhones y Mac. ([markets.businessinsider.com](https://markets.businessinsider.com/news/stocks/apple-stock-price-soars-new-record-high-ai-focused-wwdc-2024-6?utm_source=openai))
+
+En resumen, el aumento del 7.26% en el precio de las acciones de Apple el 11 de junio de 2024 se debe principalmente a las expectativas positivas generadas por las innovaciones en inteligencia artificial presentadas en la WWDC y su potencial para impulsar la demanda de nuevos dispositivos. 
