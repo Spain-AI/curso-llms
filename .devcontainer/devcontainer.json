@@ -4,7 +4,7 @@
     "service": "server",
     "workspaceFolder": "/workspace",
     "shutdownAction": "none",
-    "postCreateCommand": "mkdir -p ~/.ipython/profile_default/startup && cp .devcontainer/pandas-startup.py ~/.ipython/profile_default/startup/00-pandas-options.py",
+    "postCreateCommand": "mkdir -p ~/.ipython/profile_default/startup && cp .devcontainer/pandas-startup.py ~/.ipython/profile_default/startup/00-pandas-options.py && direnv allow",
     "customizations": {
         "codespaces": {
             "openFiles": []
@@ -13,6 +13,7 @@
             "settings": "./settings.json",
             "remoteUser": "vscode",
             "extensions": [
+                "mkhl.direnv",
                 "ms-toolsai.jupyter",
                 "ms-python.python",
                 "bierner.docs-view",
