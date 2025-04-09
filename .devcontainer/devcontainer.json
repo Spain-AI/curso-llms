@@ -28,7 +28,8 @@
                 "VisualStudioExptTeam.vscodeintellicode",
                 "GitHub.github-vscode-theme",
                 "ms-azuretools.vscode-docker",
-                "DavidAnson.vscode-markdownlint"
+                "DavidAnson.vscode-markdownlint",
+                "vscode-icons-team.vscode-icons"
             ]
         }
     }
