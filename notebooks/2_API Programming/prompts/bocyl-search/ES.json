@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "END",
+        "START",
+        "TEMA"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Busca documentos del BOCYL segun:\n\nFecha inicial: {START}\nFecha final: {END}\n\nSobre el tema: {TEMA}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
