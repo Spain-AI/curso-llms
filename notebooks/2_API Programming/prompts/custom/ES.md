@@ -1,0 +1,1 @@
+Busca las últimas noticias de hoy {DATE} de la acción {TICKER}.

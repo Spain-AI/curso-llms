@@ -14,5 +14,10 @@ dependencies:
   - langchain
   - langchain-openai
   - yfinance
+  - sentence-transformers
+  - ipywidgets
   - pip:
+      - chromadb
       - dataframe-image
+      - pymilvus
+      - langchain-community

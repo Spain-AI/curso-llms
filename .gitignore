@@ -41,3 +41,7 @@ docs
 
 !.env.public
 !.envrc
+!.envs/.env
+
+chromadb
+notebooks/3_RAG/3_Chat CLI

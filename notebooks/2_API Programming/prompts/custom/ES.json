@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "DATE",
+        "TICKER"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Busca las \u00faltimas noticias de hoy {DATE} de la acci\u00f3n {TICKER}.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
